@@ -1,0 +1,690 @@
+{
+    "data": [
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "sravan@bridgentech.com",
+            "mobileNumber": "9218283843",
+            "resumeIdentifier": "martinhorance__gmail_com--555555896",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "74",
+            "reverseCompatibilityScore": "80",
+            "weightedScore": "76",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "martinhorance@bridgentech.com",
+            "mobileNumber": "6218283843",
+            "resumeIdentifier": "cv_sravsravasrav__gmail_com--12344567800",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "69",
+            "reverseCompatibilityScore": "55",
+            "weightedScore": "83",
+            "parsedResumeData": {
+                "contactInfo": null,
+                "languageCompetencies": null,
+                "certifications": null,
+                "skillDataList": [
+                    {
+                        "skillId": "10",
+                        "skillName": "Information Technology",
+                        "percentage": 42,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "201",
+                                "subSkillName": "Architecture",
+                                "parentPercentage": 29,
+                                "overallPercentage": 12
+                            },
+                            {
+                                "subSkillId": "199",
+                                "subSkillName": "Project Management",
+                                "parentPercentage": 21,
+                                "overallPercentage": 9
+                            },
+                            {
+                                "subSkillId": "553",
+                                "subSkillName": "Big Data",
+                                "parentPercentage": 11,
+                                "overallPercentage": 5
+                            },
+                            {
+                                "subSkillId": "193",
+                                "subSkillName": "Database",
+                                "parentPercentage": 6,
+                                "overallPercentage": 3
+                            },
+                            {
+                                "subSkillId": "550",
+                                "subSkillName": "Cloud Computing",
+                                "parentPercentage": 5,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "554",
+                                "subSkillName": "Business Intelligence",
+                                "parentPercentage": 5,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "204",
+                                "subSkillName": "Programming",
+                                "parentPercentage": 5,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "251",
+                                "subSkillName": "Config Deploy Upgrade Migrate",
+                                "parentPercentage": 5,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "342",
+                                "subSkillName": "Workflow and Imaging",
+                                "parentPercentage": 5,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "196",
+                                "subSkillName": "Internet",
+                                "parentPercentage": 3,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "353",
+                                "subSkillName": "Medical",
+                                "parentPercentage": 2,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "200",
+                                "subSkillName": "QA and QC",
+                                "parentPercentage": 2,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "195",
+                                "subSkillName": "ERP and CRM",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "339",
+                                "subSkillName": "Java",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "351",
+                                "subSkillName": "Multimedia",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "731",
+                                "subSkillName": "User Interface",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "252",
+                                "subSkillName": "Prebuilt Software",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "71",
+                        "skillName": "Strategy and Planning",
+                        "percentage": 13,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "876",
+                                "subSkillName": "Workflow and Processes",
+                                "parentPercentage": 100,
+                                "overallPercentage": 13
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "20",
+                        "skillName": "Sales",
+                        "percentage": 10,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "105",
+                                "subSkillName": "General",
+                                "parentPercentage": 79,
+                                "overallPercentage": 8
+                            },
+                            {
+                                "subSkillId": "104",
+                                "subSkillName": "Account Management",
+                                "parentPercentage": 21,
+                                "overallPercentage": 2
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "7",
+                        "skillName": "Finance",
+                        "percentage": 7,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "702",
+                                "subSkillName": "Tax",
+                                "parentPercentage": 59,
+                                "overallPercentage": 4
+                            },
+                            {
+                                "subSkillId": "245",
+                                "subSkillName": "Compliance",
+                                "parentPercentage": 29,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "237",
+                                "subSkillName": "Operations",
+                                "parentPercentage": 9,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "235",
+                                "subSkillName": "Financial Planning & Analysis",
+                                "parentPercentage": 3,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "246",
+                                "subSkillName": "Treasury",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "234",
+                                "subSkillName": "Lending",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "242",
+                                "subSkillName": "Admin and Customer Service",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "69",
+                        "skillName": "QA and QC",
+                        "percentage": 7,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "941",
+                                "subSkillName": "Other",
+                                "parentPercentage": 58,
+                                "overallPercentage": 4
+                            },
+                            {
+                                "subSkillId": "446",
+                                "subSkillName": "Techniques",
+                                "parentPercentage": 42,
+                                "overallPercentage": 3
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "14",
+                        "skillName": "Marketing",
+                        "percentage": 7,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "588",
+                                "subSkillName": "Data & Analytics",
+                                "parentPercentage": 36,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "249",
+                                "subSkillName": "General",
+                                "parentPercentage": 29,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "589",
+                                "subSkillName": "Business Planning",
+                                "parentPercentage": 28,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "599",
+                                "subSkillName": "Digital",
+                                "parentPercentage": 7,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "93",
+                        "skillName": "User Experience",
+                        "percentage": 3,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "571",
+                                "subSkillName": "Web Design",
+                                "parentPercentage": 100,
+                                "overallPercentage": 3
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "28",
+                        "skillName": "Clinical",
+                        "percentage": 3,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "272",
+                                "subSkillName": "Admin",
+                                "parentPercentage": 67,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "276",
+                                "subSkillName": "Tests and Functions",
+                                "parentPercentage": 17,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "277",
+                                "subSkillName": "Other",
+                                "parentPercentage": 17,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "97",
+                        "skillName": "Supply Chain and Logistics",
+                        "percentage": 2,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "459",
+                                "subSkillName": "Inventory",
+                                "parentPercentage": 94,
+                                "overallPercentage": 2
+                            },
+                            {
+                                "subSkillId": "460",
+                                "subSkillName": "Logistics",
+                                "parentPercentage": 6,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "1",
+                        "skillName": "Administrative or Clerical",
+                        "percentage": 1,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "110",
+                                "subSkillName": "Billing and Collections",
+                                "parentPercentage": 55,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "109",
+                                "subSkillName": "Document-centric",
+                                "parentPercentage": 44,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "117",
+                                "subSkillName": "Accounting Related",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "46",
+                        "skillName": "Call Center or Help Desk or Customer Service",
+                        "percentage": 1,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "130",
+                                "subSkillName": "Customer Facing",
+                                "parentPercentage": 100,
+                                "overallPercentage": 1
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "95",
+                        "skillName": "Healthcare Non-physician Non-nurse",
+                        "percentage": 1,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "165",
+                                "subSkillName": "Operations",
+                                "parentPercentage": 100,
+                                "overallPercentage": 1
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "5",
+                        "skillName": "Engineering",
+                        "percentage": 1,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "137",
+                                "subSkillName": "Industrial",
+                                "parentPercentage": 98,
+                                "overallPercentage": 1
+                            },
+                            {
+                                "subSkillId": "298",
+                                "subSkillName": "Surveying",
+                                "parentPercentage": 1,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "308",
+                                "subSkillName": "Power Engineering",
+                                "parentPercentage": 1,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "9",
+                        "skillName": "Human Resources",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "574",
+                                "subSkillName": "Diversity & Inclusion",
+                                "parentPercentage": 100,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "185",
+                                "subSkillName": "Payroll",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "32",
+                        "skillName": "Degreed Accounting",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "255",
+                                "subSkillName": "Tax",
+                                "parentPercentage": 91,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "950",
+                                "subSkillName": "CPA",
+                                "parentPercentage": 3,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "962",
+                                "subSkillName": "Reporting",
+                                "parentPercentage": 3,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "254",
+                                "subSkillName": "Software",
+                                "parentPercentage": 2,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "944",
+                                "subSkillName": "Bookkeeping",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "940",
+                                "subSkillName": "Accounts Receivable",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "34",
+                        "skillName": "Business Operations and General Business",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "436",
+                                "subSkillName": "Management Activities or Functions",
+                                "parentPercentage": 72,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "437",
+                                "subSkillName": "General Skills and Activities",
+                                "parentPercentage": 28,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "89",
+                        "skillName": "Bookkeeping, Office Management",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "533",
+                                "subSkillName": "Bookeeping Tasks",
+                                "parentPercentage": 99,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "535",
+                                "subSkillName": "Payroll Tasks",
+                                "parentPercentage": 1,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "31",
+                        "skillName": "Written Communications",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "429",
+                                "subSkillName": "Specs and Documentation",
+                                "parentPercentage": 100,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "12",
+                        "skillName": "Legal",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "400",
+                                "subSkillName": "Litigation",
+                                "parentPercentage": 100,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "6",
+                        "skillName": "Environmental",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "333",
+                                "subSkillName": "General",
+                                "parentPercentage": 100,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    },
+                    {
+                        "skillId": "0",
+                        "skillName": "Common End-user Software",
+                        "percentage": 0,
+                        "subSkillDataList": [
+                            {
+                                "subSkillId": "229",
+                                "subSkillName": "Visual",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            },
+                            {
+                                "subSkillId": "108",
+                                "subSkillName": "Core Office",
+                                "parentPercentage": 0,
+                                "overallPercentage": 0
+                            }
+                        ]
+                    }
+                ],
+                "parsedResumeHtml": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 21.3.0\" /><title>Interview Assessment Sheet - Technical</title></head><body style=\"font-family:'Times New Roman'; font-size:10pt\"><div><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:center\"><span style=\"font-family:Calibri; font-weight:bold; text-transform:uppercase; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:16pt\"><span style=\"text-transform:uppercase; color:#2f5496\">PArthiban K</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"text-transform:uppercase; color:#2f5496\">Business Analyst</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right\"><span style=\"font-weight:bold; color:#2f5496\">(+91) 7708111632</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right\"><span style=\"font-weight:bold; color:#2f5496; -aw-import:spaces\">&#xa0;</span><span style=\"font-weight:bold; color:#2f5496\">kpb2390@gmail.com</span></p><p style=\"margin-top:0pt; margin-left:18pt; margin-bottom:0pt; text-align:justify; widows:0; orphans:0\"><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></p><h1 style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-family:Calibri; font-weight:normal; text-decoration:underline; color:#2f5496\">PROFILE SUMMARY</span><span style=\"width:20.13pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span></h1><p style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; widows:0; orphans:0; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">A Business Analyst with 6+ </span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;</span><span style=\"font-family:Calibri\">years experience in Agile Method, Business Analysis, GUI, Requirement Analyzing and Gathering, Business and Functional Requirement Documentation, User Stories preparation, UML Diagram representation ,SQL Server, Client relationship management and User Manual Preparing. </span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; widows:0; orphans:0; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Extenisvely having 3 years experience in US Income Tax Filing Returns. Worked as Junior accountant in Pokma Automobiles pvt ltd for an year.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Elicit requirements using interviews, document analysis, requirements workshops, surveys, site visits, business process descriptions, use cases, scenarios, business analysis, task and workflow analysis.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Define and document the Scope of Work and Functional &amp; Non functional requirements Specifications and finalize the requirements with stakeholders and communicate the Solution to Developers ,other respective Stakeholders.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Develop Test Cases, Test Scenarios &amp; Testing,</span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0; </span><span style=\"font-family:Calibri\">Issue Management and Implementations.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Responsible for the final deliverables to the client, conducting appropriate reviews cycles and walkthroughs to complete Cusomer handoff.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Participate in pre-sales activities, presentations and demos to internal and external stakeholders as and when required.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; text-decoration:underline; color:#2f5496\">TECHNICAL SKILLS</span><span style=\"width:27.49pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"font-family:Calibri; font-size:10pt; text-decoration:underline; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><table cellspacing=\"0\" cellpadding=\"0\" style=\"width:423.6pt; border-collapse:collapse\"><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Business Analysis Skills</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">Problem Solving, Requirement Elicitation, Critical Thinking, UML Diagrams, Mockup Design and Documentation</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Documentation Skills</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">Business Requirement Document, Software specification document, Functional Requirement Document, Product Requirement Document, Use Case Document, User Stories.</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Database</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">SQL Server</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Business Analytics Tools</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">Power Business Intelligence (BI) and Tableau</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Modeling Tool</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">Pencil, MS Visio 2013, BalsamiQ Mockups 3, Lucidchart</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Tools And Utilities</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">JIRA, TFS,MS Office Products</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">SDLC</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">AGILE Methodology and Waterfall model</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Language</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">HTML, CSS and Java Script</span></p></td></tr><tr style=\"height:3.5pt\"><td style=\"width:129.55pt; border-top:0.75pt solid #8eaadb; border-right:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top; background-color:#d9e2f3; -aw-border-bottom:0.25pt single; -aw-border-right:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:1pt; margin-bottom:1pt; font-size:10pt\"><span style=\"font-family:Calibri; font-weight:bold; letter-spacing:0.2pt\">Certification</span></p></td><td style=\"width:272.45pt; border-top:0.75pt solid #8eaadb; border-left:0.75pt solid #8eaadb; border-bottom:0.75pt solid #8eaadb; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.25pt single; -aw-border-left:0.25pt single; -aw-border-top:0.25pt single\"><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:10pt\"><span style=\"font-family:Calibri; letter-spacing:0.2pt\">Salesforce Administrator, Salesforce Service Cloud, ERP 9.0 Tally </span></p></td></tr></table><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold; color:#2f5496; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; text-decoration:underline; color:#2f5496\">EDUCATION</span><span style=\"width:18.06pt; font-family:'Lucida Console'; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; font-style:italic; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; font-style:italic\">B.C.A – Bachelor Of Computer Application</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri\">Ramakrishna Mission Vivekananda College(Autonomous),Chennai</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; font-style:italic\">ICMAI – Foundation </span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri\">Institute of Cost and Management Accountants of India</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><h2 style=\"margin-top:12pt; margin-bottom:3pt; text-align:justify; page-break-after:avoid; font-size:11pt\"><span style=\"font-family:Calibri; font-weight:normal; text-decoration:underline; color:#2f5496\">EXPERIENCE</span><span style=\"width:17.41pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-weight:normal; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span></h2><h2 style=\"margin-top:12pt; margin-bottom:3pt; text-align:justify; page-break-after:avoid; font-size:12pt\"><span style=\"font-family:Calibri; font-weight:normal; color:#2f5496\">Business Analyst</span></h2><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-weight:bold; font-style:italic\">Wilco Source Technologies Pvt Ltd </span><span style=\"font-weight:bold; font-style:italic; -aw-import:spaces\">&#xa0;</span><span style=\"font-weight:bold; font-style:italic\">/ Nov 2019 - Present</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Project – Ford Trade Club Sales Development Kit (Nexus After Market Solutions, UK)</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri\">Ford DRS is a cloud application which helps to provides the detailed view of Trade club sales made to Garage members by Dealers. Application helps us to design the marketing templates which enhances the sales to each dealers by providing adequate discount to customers.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Responsiblities:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Requirement Discussion with Account managers(Cient) in Nexus after market</span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0; </span><span style=\"font-family:Calibri\">to gather business requirements.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Preparation of Wireframe, Activity diagrams to agree the process flow of module.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Compose the Functional specification document and share it Account manager to review the spec. Client feedbacks will be updated in FRD and convert them into user stories.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Creation of Epics, Tasks and Sub tasks in JIRA and prioritize them and plan for Sprint.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Presentation of User stories for each tasks to Development team, QA team and Database. Upload the user stories in respective JIRA Tickets.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Perform Testing After deployment in Test Server and before Demo to Client.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:10pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Erstwhile, Development completed and approved by QA team. Then I will show the demo to Account manager(Client).</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Project – Wilco Docx</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-family:Calibri\">Wilco Docx is an cloud application fetches the Patient Documents from Nuxeo server. Pharmacists splits the pages and assigns the document to user based on the Drugs. Google vision OCR tool recognize and reads data. Validates and accepts the form. Exports the data to patient connect using Salesforce API. Creates record in the salesforce object </span></p><p style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"-aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Responsiblities:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Requirements meetings with Eversana BSA to get business requirements.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Prepared Functioal Specification Document, User Guide and Work Flow diagram and agreed with stakeholder for signoff.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Requirements split into User stories, Priotized and created those as tickets in JIRA.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Presented it to developers to proceed with development.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:10pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Performed Testing post deployment and produce that to client for demo.</span></p><h2 style=\"margin-top:12pt; margin-bottom:3pt; text-align:justify; page-break-after:avoid; font-size:12pt\"><span style=\"font-family:Calibri; font-weight:normal; color:#2f5496\">Business Analyst</span></h2><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-weight:bold; font-style:italic\">Care Data Infomatics Pvt Ltd / Jul 2017 – Nov 2019</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Project – Care LabTrak (Laboratory Management System)</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri\">Care LabTrak is a cloud data management (SAAS model) provides comprehensive features for Laboratory from Patient registration, Sample collection to dispatching the final reports. </span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Responsiblities:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Gather requirements from clients through interview in an iterative method . </span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Analyze the requests, Identify the requirements and prepare Product requirement document, Use cases documents, User stories, wireframes and UML diagrams. Agree the process flow with stake holders.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Prioritize the requirements , Plan with stakeholders and publish the release plan to all stakeholders in each sprint.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Organize sessions with stakeholders, present the requirements essential for development. Review tests cases scenarios and provides feedback.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Involves in regular scrum meeting to observe the status of tasks.During the release, involve in Triage meeting to correct the priorities amongst bugs.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Post Release, educate the implementation and sales team about release features.Implementation team will showcase the demo to client.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Maintain the requirement traceability matrix document to ensure the requirements and change requests will be mapped to test cases to make sure the requirements covered for testing.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Analyzed requirements for Mobile Application-Home collection, Doctor Approval application. </span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;</span><span style=\"font-family:Calibri\">Devised functional and non functional requirement document , Activity diagrams and validated with stakeholders and signed off from development team. </span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">LIMS Dashboard has been designed using Power BI (Business Intelligence) and Tableau. </span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Project – Inventory (Pharmaceutical Management System)</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; line-height:115%; font-size:11pt\"><span style=\"font-family:Calibri\">Inventory is an cloud data management, which used to Store and organize the data related to Drugs, Reagents and Containers extensively used by Laboratories, Pharmacy.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:10pt; line-height:115%; font-size:11pt\"><span style=\"font-family:Calibri\">Consumptions of Medications, Reagents, Containers and others has been automated. Stock View Dashboard has been designed using Power BI. </span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Responsiblities:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.22pt\"><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Requirement Eliciting and Requirement gathering from the client. Analysed Business Process and Draw BPMN 2.0 in Lucid Chart</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Writing Business Requirement Specifications that successfully delivered necessary change in a manageable and non-intrusive way</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Designed Use Case diagram, DFD Diagram,ERP Diagram and Class Diagram</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Design and develop a systematic business plan as per the clients' specifications </span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:10pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Interacting with Client,Project Manager and development team to develop the application</span></p><h2 style=\"margin-top:12pt; margin-bottom:3pt; text-align:justify; page-break-after:avoid; font-size:12pt\"><span style=\"font-family:Calibri; font-weight:normal; color:#2f5496\">Business Analyst</span></h2><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-weight:bold; font-style:italic\">Jeevan Technologies Pvt Ltd / Jul 2015 – Jul 2017</span></p><p style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"-aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Project – Tax Garden</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:115%; font-size:11pt\"><span style=\"font-family:Calibri\">TaxGarden aims at providing the Individual income tax filing returns for the US peoples. We gathered the requirement from IRS websites and designed the TaxGarden online software and got certified from IRS. This product is aiming at providing tax filing services to 46 US States with currently providing filing services live for Federal, New York, Georgia, New Jersey, Illinois, Michigan and California residents.</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:115%; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496\">Responsibilities:</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Analysing the Form 1040 and their sub schedules instructions</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Elicitation of Business requirements for our online Tax product ‘Tax Garden’.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Prepare functional requirements regarding schedules and represent them through business flows, UML diagrams and preparation of Business Specification document.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Responsible for the following documents; Business requirement document, Functional/ Specification document, training and presentation of materials related to Tax domain specific for development.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Assist the project manager and development lead in every sprint planning for effective delivery of the module.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Coordinate with QA team in functional and UAT testing.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Tax Garden is an online based application facilitating US individuals to file their tax return.</span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">The functioning of Tax1040 project is done on an agile methodology basis (Sprint model) by conducting daily scrums and also organizing weekly Status updates regarding the Sprint updates. </span></p><p style=\"margin-top:0pt; margin-left:40.1pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\"> Tax Garden competes with other higher end competitor products from Intuit and H&amp;R Block.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:115%; font-size:12pt\"><span style=\"font-family:Calibri; color:#2f5496\">Senior Tax Executive</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-weight:bold; font-style:italic\">Xpitax Solutions Pvt Ltd / Dec 2011 – Jul 2015</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496; background-color:#ffffff\">Responsibilities:</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\">Preparation of Tax Returns for form 1040 (Individual tax), Form 1041 (Fiduciary) and Form 1065 (Partnership).</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\">Performing Quality Check on returns prepared by the team and filing the same</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\">Training fresh individuals on specific topics related to the taxation and assisting to the team.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\">Compliance of specifications received from Operating Office relating to the work</span><span style=\"font-family:Calibri\">.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\"> Ensuring achievement of production and quality targets</span><span style=\"font-family:Calibri\">.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\"> Monitoring and assisting the quality of the work done by the team.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\"> Providing solutions to the technical queries of the team.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; line-height:115%; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri; background-color:#ffffff\"> Comfortable with tax specialized software like Profx, Lacerte, Pro Series, Ultratax, Drake and Go System.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Overall control over the preparers who engage in the preparation of tax returns.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">To address the queries of the preparers and execute the best solution as appropriate.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Regular check on the flow of Tax returns on a particular day.</span></p><p style=\"margin-top:0pt; margin-left:38.05pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'➢'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.44pt\"><span style=\"-aw-import:ignore\"><span>➢</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">To simulate the work flow continuously and to allocate the tax returns based on priority.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:115%; font-size:12pt\"><span style=\"font-family:Calibri; color:#2f5496\">Junior Accountant</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-weight:bold; font-style:italic\">Pokma Automobiles Pvt Ltd / Jan 2011 – Dec 2011</span></p><p style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"font-weight:bold; font-style:italic; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; font-size:11pt\"><span style=\"font-family:Calibri; color:#2f5496; background-color:#ffffff\">Responsibilities:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.15pt\"><span style=\"-aw-import:ignore\"><span>•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Efficient maintainence of integrity of General ledger, Balance sheet and Profit &amp; Loss Accounts.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.15pt\"><span style=\"-aw-import:ignore\"><span>•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Recording the Journal entries in daily manner.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.15pt\"><span style=\"-aw-import:ignore\"><span>•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Administration of Accounts receivable and accounts payable</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.15pt\"><span style=\"-aw-import:ignore\"><span>•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\">Monitored, recorded, and banked cash and checks as well as reconciled records of bank transactions.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; font-size:11pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.15pt\"><span style=\"-aw-import:ignore\"><span>•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span style=\"font-family:Calibri\"> Filing of Quarterly TDS and Performed the computation of salary through payroll software.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; font-size:11pt\"><span style=\"font-family:Calibri; text-decoration:underline; color:#2f5496\">PERSONAL DETAILS</span><span style=\"width:21.75pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span><span style=\"width:36pt; font-family:'Lucida Console'; font-size:10pt; text-decoration:underline; display:inline-block; -aw-font-family:'Calibri'\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold\">D.O.B</span><span style=\"font-family:Calibri; font-weight:bold; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri\">05</span><span style=\"font-family:Calibri; font-size:6.67pt; vertical-align:super\">th</span><span style=\"font-family:Calibri\"> Mar, 1990.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold\">Languages Known</span><span style=\"font-family:Calibri; font-weight:bold; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;</span><span style=\"font-family:Calibri\">Tamil and English</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold\">Marital Status</span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri\">Married</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold\">Interests</span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri\">Music and Sports</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify\"><span style=\"font-family:Calibri; font-weight:bold\">Address</span><span style=\"font-family:Calibri; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span><span style=\"font-family:Calibri\">148, Thazamboo street, DLB nagar, Putlur, Thiruvallur - 602025</span></p></div></body></html>",
+                "parsedResumePlainText": "PARTHIBAN K\nBUSINESS ANALYST\n(+91) 7708111632\nkpb2390@gmail.com\n\nPROFILE SUMMARY\n\n➢ A Business Analyst with 6+  years experience in Agile Method, Business Analysis, GUI, Requirement Analyzing and Gathering, Business and Functional Requirement Documentation, User Stories preparation, UML Diagram representation ,SQL Server, Client relationship management and User Manual Preparing.\n➢ Extenisvely having 3 years experience in US Income Tax Filing Returns. Worked as Junior accountant in Pokma Automobiles pvt ltd for an year.\n➢ Elicit requirements using interviews, document analysis, requirements workshops, surveys, site visits, business process descriptions, use cases, scenarios, business analysis, task and workflow analysis.\n➢ Evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.\n➢ Define and document the Scope of Work and Functional & Non functional requirements Specifications and finalize the requirements with stakeholders and communicate the Solution to Developers ,other respective Stakeholders.\n➢ Develop Test Cases, Test Scenarios & Testing,  Issue Management and Implementations.\n➢ Responsible for the final deliverables to the client, conducting appropriate reviews cycles and walkthroughs to complete Cusomer handoff.\n➢ Participate in pre-sales activities, presentations and demos to internal and external stakeholders as and when required.\n\nTECHNICAL SKILLS\n\nBusiness Analysis Skills   Problem Solving, Requirement Elicitation, Critical Thinking, UML Diagrams, Mockup Design and Documentation\nDocumentation Skills\nBusiness Requirement Document, Software specification document, Functional Requirement Document, Product Requirement Document, Use Case Document, User Stories.\n\nDatabase\t  SQL Server\nBusiness Analytics Tools   Power Business Intelligence (BI) and Tableau\nModeling Tool\tPencil, MS Visio 2013, BalsamiQ Mockups 3, Lucidchart\nTools And Utilities\tJIRA, TFS,MS Office Products\nSDLC\tAGILE Methodology and Waterfall model\nLanguage\t  HTML, CSS and Java Script\nCertification\tSalesforce Administrator, Salesforce Service Cloud, ERP 9.0 Tally\n\n\nEDUCATION\n\nB.C.A - Bachelor Of Computer Application\nRamakrishna Mission Vivekananda College(Autonomous),Chennai\n\nICMAI - Foundation\nInstitute of Cost and Management Accountants of India\n\n\nEXPERIENCE\n\nBusiness Analyst\nWilco Source Technologies Pvt Ltd  / Nov 2019 - Present\n\nProject - Ford Trade Club Sales Development Kit (Nexus After Market Solutions, UK)\nFord DRS is a cloud application which helps to provides the detailed view of Trade club sales made to Garage members by Dealers. Application helps us to design the marketing templates which enhances the sales to each dealers by providing adequate discount to customers.\n\nResponsiblities:\n➢ Requirement Discussion with Account managers(Cient) in Nexus after market  to gather business requirements.\n➢ Preparation of Wireframe, Activity diagrams to agree the process flow of module.\n➢ Compose the Functional specification document and share it Account manager to review the spec. Client feedbacks will be updated in FRD and convert them into user stories.\n➢ Creation of Epics, Tasks and Sub tasks in JIRA and prioritize them and plan for Sprint.\n➢ Presentation of User stories for each tasks to Development team, QA team and Database. Upload the user stories in respective JIRA Tickets.\n➢ Perform Testing After deployment in Test Server and before Demo to Client.\n➢ Erstwhile, Development completed and approved by QA team. Then I will show the demo to Account manager(Client).\nProject - Wilco Docx\nWilco Docx is an cloud application fetches the Patient Documents from Nuxeo server. Pharmacists splits the pages and assigns the document to user based on the Drugs. Google vision OCR tool recognize and reads data. Validates and accepts the form. Exports the data to patient connect using Salesforce API. Creates record in the salesforce object\n\nResponsiblities:\n➢ Requirements meetings with Eversana BSA to get business requirements.\n➢ Prepared Functioal Specification Document, User Guide and Work Flow diagram and agreed with stakeholder for signoff.\n➢ Requirements split into User stories, Priotized and created those as tickets in JIRA.\n➢ Presented it to developers to proceed with development.\n➢ Performed Testing post deployment and produce that to client for demo.\n\nBusiness Analyst\nCare Data Infomatics Pvt Ltd / Jul 2017 - Nov 2019\n\nProject - Care LabTrak (Laboratory Management System)\nCare LabTrak is a cloud data management (SAAS model) provides comprehensive features for Laboratory from Patient registration, Sample collection to dispatching the final reports.\n\nResponsiblities:\n➢ Gather requirements from clients through interview in an iterative method\n➢ Analyze the requests, Identify the requirements and prepare Product requirement document, Use cases documents, User stories, wireframes and UML diagrams. Agree the process flow with stake holders.\n➢ Prioritize the requirements, Plan with stakeholders and publish the release plan to all stakeholders in each sprint.\n➢ Organize sessions with stakeholders, present the requirements essential for development. Review tests cases scenarios and provides feedback.\n➢ Involves in regular scrum meeting to observe the status of tasks.During the release, involve in Triage meeting to correct the priorities amongst bugs.\n➢ Post Release, educate the implementation and sales team about release features.Implementation team will showcase the demo to client.\n➢ Maintain the requirement traceability matrix document to ensure the requirements and change requests will be mapped to test cases to make sure the requirements covered for testing.\n➢ Analyzed requirements for Mobile Application-Home collection, Doctor Approval application.  Devised functional and non functional requirement document, Activity diagrams and validated with stakeholders and signed off from development team.\n➢ LIMS Dashboard has been designed using Power BI (Business Intelligence) and Tableau.\n\nProject - Inventory (Pharmaceutical Management System)\nInventory is an cloud data management, which used to Store and organize the data related to Drugs, Reagents and Containers extensively used by Laboratories, Pharmacy.\nConsumptions of Medications, Reagents, Containers and others has been automated. Stock View Dashboard has been designed using Power BI.\nResponsiblities:\n➢ Requirement Eliciting and Requirement gathering from the client. Analysed Business Process and Draw BPMN 2.0 in Lucid Chart\n➢ Writing Business Requirement Specifications that successfully delivered necessary change in a manageable and non-intrusive way\n➢ Designed Use Case diagram, DFD Diagram,ERP Diagram and Class Diagram\n➢ Design and develop a systematic business plan as per the clients' specifications\n➢ Interacting with Client,Project Manager and development team to develop the application\n\nBusiness Analyst\nJeevan Technologies Pvt Ltd / Jul 2015 - Jul 2017\n\nProject - Tax Garden\nTaxGarden aims at providing the Individual income tax filing returns for the US peoples. We gathered the requirement from IRS websites and designed the TaxGarden online software and got certified from IRS. This product is aiming at providing tax filing services to 46 US States with currently providing filing services live for Federal, New York, Georgia, New Jersey, Illinois, Michigan and California residents.\nResponsibilities:\n➢ Analysing the Form 1040 and their sub schedules instructions\n➢ Elicitation of Business requirements for our online Tax product 'Tax Garden'.\n➢ Prepare functional requirements regarding schedules and represent them through business flows, UML diagrams and preparation of Business Specification document.\n➢ Responsible for the following documents; Business requirement document, Functional/ Specification document, training and presentation of materials related to Tax domain specific for development.\n➢ Assist the project manager and development lead in every sprint planning for effective delivery of the module.\n➢ Coordinate with QA team in functional and UAT testing.\n➢ Tax Garden is an online based application facilitating US individuals to file their tax return.\n➢ The functioning of Tax1040 project is done on an agile methodology basis (Sprint model) by conducting daily scrums and also organizing weekly Status updates regarding the Sprint updates.\n➢  Tax Garden competes with other higher end competitor products from Intuit and H&R Block.\n\nSenior Tax Executive\nXpitax Solutions Pvt Ltd / Dec 2011 - Jul 2015\nResponsibilities:\n➢ Preparation of Tax Returns for form 1040 (Individual tax), Form 1041 (Fiduciary) and Form 1065 (Partnership).\n➢ Performing Quality Check on returns prepared by the team and filing the same\n➢ Training fresh individuals on specific topics related to the taxation and assisting to the team.\n➢ Compliance of specifications received from Operating Office relating to the work.\n➢  Ensuring achievement of production and quality targets.\n➢  Monitoring and assisting the quality of the work done by the team.\n➢  Providing solutions to the technical queries of the team.\n➢  Comfortable with tax specialized software like Profx, Lacerte, Pro Series, Ultratax, Drake and Go System.\n➢ Overall control over the preparers who engage in the preparation of tax returns.\n➢ To address the queries of the preparers and execute the best solution as appropriate.\n➢ Regular check on the flow of Tax returns on a particular day.\n➢ To simulate the work flow continuously and to allocate the tax returns based on priority.\n\nJunior Accountant\nPokma Automobiles Pvt Ltd / Jan 2011 - Dec 2011\n\nResponsibilities:\n• Efficient maintainence of integrity of General ledger, Balance sheet and Profit & Loss Accounts.\n• Recording the Journal entries in daily manner.\n• Administration of Accounts receivable and accounts payable\n• Monitored, recorded, and banked cash and checks as well as reconciled records of bank transactions.\n•  Filing of Quarterly TDS and Performed the computation of salary through payroll software.\n\nPERSONAL DETAILS\nD.O.B\t 05th Mar, 1990.\nLanguages Known\t Tamil and English\nMarital Status\tMarried\nInterests\t\tMusic and Sports\nAddress\t\t148, Thazamboo street, DLB nagar, Putlur, Thiruvallur - 602025"
+            }
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "sravsravasrav@bridgentech.com",
+            "mobileNumber": "8218283843",
+            "resumeIdentifier": "cv_sravsrav__gmail_com--1234456780",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "69",
+            "reverseCompatibilityScore": "55",
+            "weightedScore": "83",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "prasad@bridgentech.com",
+            "mobileNumber": "7218283843",
+            "resumeIdentifier": "prathibank__gmail_com--7899999956",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "69",
+            "reverseCompatibilityScore": "55",
+            "weightedScore": "83",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "ruchitha@bridgentech.com",
+            "mobileNumber": "9918283843",
+            "resumeIdentifier": "deepakraj__gmail_com--444445666",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "69",
+            "reverseCompatibilityScore": "73",
+            "weightedScore": "76",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "amit@bridgentech.com",
+            "mobileNumber": "9218283843",
+            "resumeIdentifier": "qwert__gmail_com--789589658",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "64",
+            "reverseCompatibilityScore": "70",
+            "weightedScore": "74",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "rakesh@bridgentech.com",
+            "mobileNumber": "9218283843",
+            "resumeIdentifier": "naveennarayan__gmail_com--852223312",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "64",
+            "reverseCompatibilityScore": "70",
+            "weightedScore": "74",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "ranu@bridgentech.com",
+            "mobileNumber": "9218283843",
+            "resumeIdentifier": "vigneshwar__hgf_com--7892222222",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "63",
+            "reverseCompatibilityScore": "59",
+            "weightedScore": "78",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "pravallika@bridgentech.com",
+            "mobileNumber": "7218283843",
+            "resumeIdentifier": "cskarthikeya__gmail_com--22222222",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "44",
+            "reverseCompatibilityScore": "52",
+            "weightedScore": "68",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "pradeeptha@bridgentech.com",
+            "mobileNumber": "8218283843",
+            "resumeIdentifier": "cv_srav__gmail_com--1234",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "32",
+            "reverseCompatibilityScore": "65",
+            "weightedScore": "45",
+            "parsedResumeData": null
+        },
+        {
+            "emailId": "duga@gmail.com",
+            "mobileNum": "9128292020",
+            "email": "durga@bridgentech.com",
+            "mobileNumber": "9218283843",
+            "resumeIdentifier": "sharanbasava__gmail_com--3333333",
+            "jdIdentifier": "JD_Business Analyst JD.docx_Wed Apr 13 17:17:47 UTC 2022",
+            "userIdentifier": "aid",
+            "resumeScore": "32",
+            "reverseCompatibilityScore": "65",
+            "weightedScore": "45",
+            "parsedResumeData": null
+        }
+    ],
+    "resultStatusInfo": {
+        "resultCode": "SUCCESS",
+        "message": "SUCCESSFUL TRANSACTION"
+    }
+}

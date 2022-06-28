@@ -1,0 +1,190 @@
+{
+    "data": {
+        "jdIdentifier": "JD1234",
+        "parsedJobData": {
+            "mainJobTitle": "Business Analyst",
+            "otherJobTitles": [
+                "Functional Analyst"
+            ],
+            "employerName": "BE Computer Science",
+            "minExperience": 4.0,
+            "maxExperience": 8.0,
+            "requiredDegree": "bachelors",
+            "otherDegreeList": [
+                "BE",
+                "Bachelor's degree",
+                "MCA"
+            ],
+            "minSalary": 0.0,
+            "maxSalary": 0.0,
+            "address": null,
+            "skillDataList": [
+                {
+                    "skillId": "10",
+                    "skillName": "Information Technology",
+                    "percentage": 45,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "199",
+                            "subSkillName": "PM",
+                            "parentPercentage": 35,
+                            "overallPercentage": 16
+                        },
+                        {
+                            "subSkillId": "349",
+                            "subSkillName": "VM",
+                            "parentPercentage": 24,
+                            "overallPercentage": 11
+                        },
+                        {
+                            "subSkillId": "554",
+                            "subSkillName": "TM",
+                            "parentPercentage": 12,
+                            "overallPercentage": 5
+                        },
+                        {
+                            "subSkillId": "200",
+                            "subSkillName": "QA and QC",
+                            "parentPercentage": 12,
+                            "overallPercentage": 5
+                        },
+                        {
+                            "subSkillId": "204",
+                            "subSkillName": "Programming",
+                            "parentPercentage": 12,
+                            "overallPercentage": 5
+                        },
+                        {
+                            "subSkillId": "201",
+                            "subSkillName": "Architecture",
+                            "parentPercentage": 6,
+                            "overallPercentage": 3
+                        }
+                    ]
+                },
+                {
+                    "skillId": "93",
+                    "skillName": "User Experience",
+                    "percentage": 11,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "571",
+                            "subSkillName": "Web Design",
+                            "parentPercentage": 100,
+                            "overallPercentage": 11
+                        }
+                    ]
+                },
+                {
+                    "skillId": "71",
+                    "skillName": "Strategy and Planning",
+                    "percentage": 11,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "876",
+                            "subSkillName": "Workflow and Processes",
+                            "parentPercentage": 50,
+                            "overallPercentage": 5
+                        },
+                        {
+                            "subSkillId": "501",
+                            "subSkillName": "Modeling",
+                            "parentPercentage": 50,
+                            "overallPercentage": 5
+                        }
+                    ]
+                },
+                {
+                    "skillId": "69",
+                    "skillName": "QA and QC",
+                    "percentage": 11,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "446",
+                            "subSkillName": "Techniques",
+                            "parentPercentage": 50,
+                            "overallPercentage": 5
+                        },
+                        {
+                            "subSkillId": "941",
+                            "subSkillName": "Other",
+                            "parentPercentage": 50,
+                            "overallPercentage": 5
+                        }
+                    ]
+                },
+                {
+                    "skillId": "5",
+                    "skillName": "Engineering",
+                    "percentage": 7,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "307",
+                            "subSkillName": "General Engineering",
+                            "parentPercentage": 47,
+                            "overallPercentage": 3
+                        },
+                        {
+                            "subSkillId": "144",
+                            "subSkillName": "Computer Hardware",
+                            "parentPercentage": 27,
+                            "overallPercentage": 2
+                        },
+                        {
+                            "subSkillId": "134",
+                            "subSkillName": "Design",
+                            "parentPercentage": 27,
+                            "overallPercentage": 2
+                        }
+                    ]
+                },
+                {
+                    "skillId": "12",
+                    "skillName": "Legal",
+                    "percentage": 5,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "400",
+                            "subSkillName": "Litigation",
+                            "parentPercentage": 100,
+                            "overallPercentage": 5
+                        }
+                    ]
+                },
+                {
+                    "skillId": "31",
+                    "skillName": "Written Communications",
+                    "percentage": 5,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "429",
+                            "subSkillName": "Specs and Documentation",
+                            "parentPercentage": 100,
+                            "overallPercentage": 5
+                        }
+                    ]
+                },
+                {
+                    "skillId": "34",
+                    "skillName": "Business Operations and General Business",
+                    "percentage": 5,
+                    "subSkillDataList": [
+                        {
+                            "subSkillId": "437",
+                            "subSkillName": "General Skills and Activities",
+                            "parentPercentage": 100,
+                            "overallPercentage": 5
+                        }
+                    ]
+                }
+            ],
+            "parsedJdHtml": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 21.3.0\" /><title></title></head><body style=\"line-height:108%; font-family:Calibri; font-size:11pt\"><div><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-size:12pt\"><span>Position: Business Analyst</span></p><p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108%; font-size:12pt\"><span>Location: Chennai</span><br /><span>Experience: 4+ Years</span><br /><span>Qualifications: BE Computer Science/MCA or any other Bachelor’s degree. </span><br /><br /><span style=\"font-weight:bold; text-decoration:underline\">REQUIRED EXPERIENCE AND SKILLS:</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>4 to 8 years of experience as Business Analyst / Functional Analyst in software solutions development project or product.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>At least ONE full year of contribution to a single product / project a must.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Experience with business requirements, creating Epics, Themes and User Stories</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Collaborate with Stakeholders to elicit, review and document requirements.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Experience with business requirements, user requirements, and user stories</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Produce Scope and detailed requirements documented and signed-off by stakeholders</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Prepare and perform functional tests and make sure that acceptance criteria are met before releasing to end-user for UAT.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Ensure that User Stories prepared and updated during the development life cycle in order to have UpToDate specifications.</span><span>&#xa0;</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>As required, Review Test Scenarios and Test Cases provided by QA team.</span><span>&#xa0;</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Should be able to make wireframes, mock-ups and facilitate prototypes as necessary for a given situation.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Strong background in Software Development/Engineering</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Experience in testing the functionalities delivered by development team</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Knowledge of process modelling</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Escalate and follow-up on timely manner any and all issues that might be a blocker, issue, deviations for completion of software development.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Contribute to the troubleshooting, tests and documentation of selected applications functions, at a high-quality level.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Work with the development team to resolve issues.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Understand overall requirements and prepare automation strategy (framework, priorities, planning which is to be integrated with overall project plan)</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Prepare Test schedules in accordance with project scope/delivery dates.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Strong analytical, problem solving and troubleshooting skills.</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Collaboration with Software Architect(s) and other technical groups within client (Includes design, documentation, prototyping and validation)</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; text-align:justify; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:14.5pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'; font-size:10pt\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Usage of Team Foundation Server (TFS)/Azure DevOps.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-size:12pt\"><span style=\"-aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:12pt; line-height:normal; font-size:12pt\"><span style=\"font-weight:bold; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-weight:bold; -aw-import:spaces\">&#xa0;&#xa0;&#xa0; </span><span style=\"font-weight:bold; text-decoration:underline\">Methodology Skills:</span><br /><span style=\"font-weight:bold; -aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-left:36pt; margin-bottom:0pt; text-indent:-18pt; line-height:normal; font-size:12pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:13.8pt\"><span style=\"-aw-import:ignore\"><span style=\"font-family:'Times New Roman'\">•</span><span style=\"font:7pt 'Times New Roman'; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>AGILE Development (Scrum)</span><br /><span style=\"-aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-size:10pt\"><br /><br /><span style=\"-aw-import:ignore\">&#xa0;</span></p><p style=\"margin-top:0pt; margin-bottom:8pt; line-height:108%; font-size:12pt\"><span style=\"-aw-import:ignore\">&#xa0;</span></p></div></body></html>",
+            "parsedJdPlainText": "Position: Business Analyst\r\nLocation: Chennai\r\nExperience: 4+ Years\r\nQualifications: BE Computer Science/MCA or any other Bachelor’s degree.\r\n\r\nREQUIRED EXPERIENCE AND SKILLS:\r\n   • 4 to 8 years of experience as Business Analyst / Functional Analyst in software solutions development project or product.\r\n   • At least ONE full year of contribution to a single product / project a must.\r\n   • Experience with business requirements, creating Epics, Themes and User Stories\r\n   • Collaborate with Stakeholders to elicit, review and document requirements.\r\n   • Experience with business requirements, user requirements, and user stories\r\n   • Produce Scope and detailed requirements documented and signed-off by stakeholders\r\n   • Prepare and perform functional tests and make sure that acceptance criteria are met before releasing to end-user for UAT.\r\n   • Ensure that User Stories prepared and updated during the development life cycle in order to have UpToDate specifications.\r\n   • As required, Review Test Scenarios and Test Cases provided by QA team.\r\n   • Should be able to make wireframes, mock-ups and facilitate prototypes as necessary for a given situation.\r\n   • Strong background in Software Development/Engineering\r\n   • Experience in testing the functionalities delivered by development team\r\n   • Knowledge of process modelling\r\n   • Escalate and follow-up on timely manner any and all issues that might be a blocker, issue, deviations for completion of software development.\r\n   • Contribute to the troubleshooting, tests and documentation of selected applications functions, at a high-quality level.\r\n   • Work with the development team to resolve issues.\r\n   • Understand overall requirements and prepare automation strategy (framework, priorities, planning which is to be integrated with overall project plan)\r\n   • Prepare Test schedules in accordance with project scope/delivery dates.\r\n   • Strong analytical, problem solving and troubleshooting skills.\r\n   • Collaboration with Software Architect(s) and other technical groups within client (Includes design, documentation, prototyping and validation)\r\n   • Usage of Team Foundation Server (TFS)/Azure DevOps.\r\n\r\n\r\n    Methodology Skills:\r\n\r\n   • AGILE Development (Scrum)"
+        },
+        "rawSovrenData": null
+    },
+    "resultStatusInfo": {
+        "resultCode": "Success",
+        "message": "Retrieval Successful"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "data": {
+        "email": "shrirang@gmail.com",
+        "mobileNumber": "9828299100",
+        "resumeIdentifier": "cv_shrirang__gmail_com--9828299100",
+        "rawSovrenData": null,
+        "result": {
+            "resultCode": "ThirdPartyException",
+            "message": "Invalid resume: Digital signature is invalid. You cannot modify the parsed document from the parser api response prior to indexing it into the AI Matching Engine. Other common causes include not using UTF8 encoding when reading or storing the response the response from the parser api call. You must use UTF8 encoding end-to-end throughout your system's use of the parsed data."
+        },
+        "parsedResumeData": null
+    },
+    "resultStatusInfo": {
+        "resultCode": "ThirdPartyException",
+        "message": "Invalid resume: Digital signature is invalid. You cannot modify the parsed document from the parser api response prior to indexing it into the AI Matching Engine. Other common causes include not using UTF8 encoding when reading or storing the response the response from the parser api call. You must use UTF8 encoding end-to-end throughout your system's use of the parsed data."
+    }
+}
